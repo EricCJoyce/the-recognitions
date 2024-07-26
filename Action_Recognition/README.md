@@ -1,4 +1,4 @@
-# Action Recognition
+# [Action Recognition](https://doi.org/10.1162/pres_a_00408)
 
 ## Build a first-person action classification system from VR enactments
 
